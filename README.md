@@ -1,4 +1,4 @@
-﻿# Mini RAG Application
+﻿# RAG Application
 
 This project implements a **Retrieval-Augmented Generation (RAG)** system that can intelligently answer questions from PDF documents.  
 The system extracts text from a document, creates embeddings, stores them in a FAISS vector database, retrieves relevant context for each user query, and generates an accurate answer using **Groq’s Llama 3.3-70B Versatile model**.
@@ -39,4 +39,5 @@ The system extracts text from a document, creates embeddings, stores them in a F
 ```bash
 git clone https://github.com/<your-username>/mini-rag-groq.git
 cd mini-rag-groq
+
 
