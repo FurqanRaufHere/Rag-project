@@ -1,4 +1,3 @@
-# src/rag_pipeline.py
 from retrieval import Retriever
 from prompt import build_rag_messages
 from groq_client import call_chat_completion
