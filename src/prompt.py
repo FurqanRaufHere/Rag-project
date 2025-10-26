@@ -1,4 +1,3 @@
-# src/prompt.py
 from typing import List, Dict
 import textwrap
 
